@@ -1,5 +1,5 @@
 ![](http://cl.ly/image/012R0D3R3x2g/download/springswift2.jpg)
-
+d
 ## Updated for Swift 2
 Requires Xcode 7 and Swift 2.
 
